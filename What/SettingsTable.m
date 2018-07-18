@@ -116,7 +116,7 @@ static const CGFloat cKeyboardHeight = 216.f;
         //dropboxSecretObject.title = kSettingsDropboxSecret;
         
         SettingsObject *googleDriveObject = [[SettingsObject alloc] init];
-        googleDriveObject.title = ([[GoogleDrive sharedDrive] isAuthorized] ? kSettingUnlinkGoogleDrive : kSettingLinkGoogleDrive);
+//        googleDriveObject.title = ([[GoogleDrive sharedDrive] isAuthorized] ? kSettingUnlinkGoogleDrive : kSettingLinkGoogleDrive);
         
         SettingsGroup *downloadsGroup = [[SettingsGroup alloc] initWithSettings:[NSArray arrayWithObjects:downloadToggle, googleDriveObject, nil]];
         downloadsGroup.title = kSettingsGroupDownloads;
@@ -191,7 +191,7 @@ static const CGFloat cKeyboardHeight = 216.f;
 {
     SettingsGroup *settingsGroup = [self.tableData objectAtIndex:2];
     SettingsObject *googleDriveObject = [settingsGroup.settingsObjects objectAtIndex:1];
-    googleDriveObject.title = ([[GoogleDrive sharedDrive] isAuthorized] ? kSettingUnlinkGoogleDrive : kSettingLinkGoogleDrive);
+//    googleDriveObject.title = ([[GoogleDrive sharedDrive] isAuthorized] ? kSettingUnlinkGoogleDrive : kSettingLinkGoogleDrive);
     
     [self beginUpdates];
     [self reloadRowsAtIndexPaths:[NSArray arrayWithObject:[NSIndexPath indexPathForRow:1 inSection:2]] withRowAnimation:UITableViewRowAnimationFade];
@@ -505,8 +505,8 @@ App Version: %@\n\
         }
         
         //LINK CLOUD STORAGE
-        else
-        {
+//        else
+//        {
             /*
             NSString *key = [[NSUserDefaults standardUserDefaults] objectForKey:@"DropboxAppKey"];
             NSString *secret = [[NSUserDefaults standardUserDefaults] objectForKey:@"DropboxSecret"];
@@ -517,21 +517,20 @@ App Version: %@\n\
             }
              */
             
-            AppDelegate *appDelegate = (AppDelegate*)[[UIApplication sharedApplication] delegate];
-            if ([[GoogleDrive sharedDrive] isAuthorized])
-            {
-                if ([[GoogleDrive sharedDrive] unauthorize])
-                    [[NSNotificationCenter defaultCenter] postNotificationName:@"GoogleDriveLinkageChanged" object:nil];
-                else
-                    [appDelegate showAlertBannerWithTitle:@"Couldn't Deauthorize Google Drive" subtitle:@"Please try again in a few minutes." style:ALAlertBannerStyleFailure];
-            }
-            
-            else {
-                
-                [(UINavigationController *)appDelegate.window.rootViewController pushViewController:[[GoogleDrive sharedDrive] createAuthController] animated:YES];
+//            AppDelegate *appDelegate = (AppDelegate*)[[UIApplication sharedApplication] delegate];
+//            if ([[GoogleDrive sharedDrive] isAuthorized])
+//            {
+//                if ([[GoogleDrive sharedDrive] unauthorize])
+//                    [[NSNotificationCenter defaultCenter] postNotificationName:@"GoogleDriveLinkageChanged" object:nil];
+//                else
+//                    [appDelegate showAlertBannerWithTitle:@"Couldn't Deauthorize Google Drive" subtitle:@"Please try again in a few minutes." style:ALAlertBannerStyleFailure];
+//            }
+//
+//            else {
+//
+//                [(UINavigationController *)appDelegate.window.rootViewController pushViewController:[[GoogleDrive sharedDrive] createAuthController] animated:YES];
                 //[[Dropbox sharedBox] linkFromController:self.parentController];
-            }
-        }
+//            }
         
     }
     

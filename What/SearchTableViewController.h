@@ -6,9 +6,9 @@
 //  Copyright (c) 2013 What. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-#import "BarcodeController.h"
-
-@interface SearchTableViewController : UITableViewController <UISearchBarDelegate, UITableViewDelegate, UITableViewDataSource, ALBarcodeDelegate>
-
-@end
+//#import <UIKit/UIKit.h>
+//#import "BarcodeController.h"
+//
+//@interface SearchTableViewController : UITableViewController <UISearchBarDelegate, UITableViewDelegate, UITableViewDataSource, ALBarcodeDelegate>
+//
+//@end

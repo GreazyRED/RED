@@ -102,7 +102,6 @@
 		20F72FF1176A9E2C00CC12D9 /* SearchArtistsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20F72FF0176A9E2C00CC12D9 /* SearchArtistsTableViewController.m */; };
 		20FFE04A1798E552004A23C2 /* WCDAnnouncementGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 20FFE0491798E552004A23C2 /* WCDAnnouncementGroup.m */; };
 		20FFE04E1798E56B004A23C2 /* WCDAnnouncement.m in Sources */ = {isa = PBXBuildFile; fileRef = 20FFE04D1798E56B004A23C2 /* WCDAnnouncement.m */; };
-		22E2E7D7B3F84DBAA3FA3D51 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0481D0BD4370491996AF60B2 /* libPods.a */; };
 		4F006183181AA7EC003DB36C /* TextFieldCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F006182181AA7EC003DB36C /* TextFieldCell.m */; };
 		4F006186181AAB69003DB36C /* TextFieldObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F006185181AAB69003DB36C /* TextFieldObject.m */; };
 		4F015AD718118BBF00BF8638 /* DonateButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F015AD618118BBF00BF8638 /* DonateButton.m */; };
@@ -122,9 +121,7 @@
 		4F08ED2817A6EC7C0014C437 /* PickerCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F08ED2717A6EC7C0014C437 /* PickerCell.m */; };
 		4F08ED2B17A6ECC10014C437 /* PickerObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F08ED2A17A6ECC10014C437 /* PickerObject.m */; };
 		4F0A45EF1799816400A84D12 /* AnnouncementsTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F0A45EE1799816400A84D12 /* AnnouncementsTableViewCell.m */; };
-		4F0B386A181B0B6300845006 /* libGTLTouchStaticLib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F0B3865181B0AE000845006 /* libGTLTouchStaticLib.a */; };
 		4F0B386C181B0BD600845006 /* GTMOAuth2ViewTouch.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F0B386B181B0BD600845006 /* GTMOAuth2ViewTouch.xib */; };
-		4F0B386F181B0C6700845006 /* GTLDrive_Sources.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F0B386D181B0C6700845006 /* GTLDrive_Sources.m */; };
 		4F0BF9C517567C1200C93FE8 /* AlbumTableHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F0BF9C417567C1200C93FE8 /* AlbumTableHeaderView.m */; };
 		4F0D31C7178DD2A50046C61D /* MainCellGradientView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F0D31C6178DD2A50046C61D /* MainCellGradientView.m */; };
 		4F0D31CE178DDCA70046C61D /* StickyBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F0D31CD178DDCA70046C61D /* StickyBannerView.m */; };
@@ -142,11 +139,6 @@
 		4F3A86251797403800EC28B5 /* WCDForum.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F3A86241797403800EC28B5 /* WCDForum.m */; };
 		4F3A8628179740AE00EC28B5 /* WCDThread.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F3A8627179740AE00EC28B5 /* WCDThread.m */; };
 		4F3A862B1797478700EC28B5 /* WCDCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F3A862A1797478700EC28B5 /* WCDCategory.m */; };
-		4F4642571784AFFF00DF352F /* libzbar.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F4642511784AFFF00DF352F /* libzbar.a */; };
-		4F4642581784AFFF00DF352F /* zbar-back.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4642531784AFFF00DF352F /* zbar-back.png */; };
-		4F4642591784AFFF00DF352F /* zbar-help.html in Resources */ = {isa = PBXBuildFile; fileRef = 4F4642541784AFFF00DF352F /* zbar-help.html */; };
-		4F46425A1784AFFF00DF352F /* zbar-helpicons.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4642551784AFFF00DF352F /* zbar-helpicons.png */; };
-		4F46425B1784AFFF00DF352F /* zbar-samples.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4642561784AFFF00DF352F /* zbar-samples.png */; };
 		4F4B7E8417FB2E1300046C47 /* SwipeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F4B7E8317FB2E1300046C47 /* SwipeView.m */; };
 		4F4CA50217DF9BCD0024964C /* DiscussionWithReplyController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F4CA50117DF9BCD0024964C /* DiscussionWithReplyController.m */; };
 		4F4CA50517DF9EE30024964C /* AnnouncementsDetailTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F4CA50417DF9EE30024964C /* AnnouncementsDetailTableViewController.m */; };
@@ -195,7 +187,6 @@
 		4F91EAC3187F00C300BA443F /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F91EAC0187F00C300BA443F /* Default-568h@2x.png */; };
 		4F91EAC4187F00C300BA443F /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F91EAC1187F00C300BA443F /* Default.png */; };
 		4F91EAC5187F00C300BA443F /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F91EAC2187F00C300BA443F /* Default@2x.png */; };
-		4F91EAC9187F011700BA443F /* Dropbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F91EAC7187F011700BA443F /* Dropbox.framework */; };
 		4F962524174E9170001542E8 /* MenuController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F962523174E9170001542E8 /* MenuController.m */; };
 		4F962528174EA5F4001542E8 /* UIImage+Tools.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F962527174EA5F4001542E8 /* UIImage+Tools.m */; };
 		4F9AED3317FA422100DD6BE2 /* ProfileStatsCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F9AED3217FA422100DD6BE2 /* ProfileStatsCell.m */; };
@@ -248,41 +239,11 @@
 		4FFAD9DA17A302F000A41814 /* PaginatorTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FFAD9D917A302F000A41814 /* PaginatorTableViewController.m */; };
 		4FFAD9DD17A317E000A41814 /* TorrentsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FFAD9DC17A317E000A41814 /* TorrentsTableViewController.m */; };
 		4FFFA06917F5F3CF00464421 /* WCDPostContent.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FFFA06817F5F3CF00464421 /* WCDPostContent.m */; };
+		D4286AF91600EFBED9A40DE2 /* Pods_RED.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 145691F30827E14F96FECDA6 /* Pods_RED.framework */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		4F0B3862181B0AE000845006 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 4F0B385B181B0AE000845006 /* GTL.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 4F38F6A60B66E91D00B24B81;
-			remoteInfo = GTLFramework;
-		};
-		4F0B3864181B0AE000845006 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 4F0B385B181B0AE000845006 /* GTL.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 4F12027C11A4CA2F00BEB470;
-			remoteInfo = GTLTouchStaticLib;
-		};
-		4F0B3866181B0AE000845006 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 4F0B385B181B0AE000845006 /* GTL.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 4F12027D11A4CA2F00BEB470;
-			remoteInfo = GTLUnitTests;
-		};
-		4F0B3868181B0AE000845006 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 4F0B385B181B0AE000845006 /* GTL.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 4F1AD9020B71603F00DC0485;
-			remoteInfo = DevelopmentTestTool;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		0481D0BD4370491996AF60B2 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		145691F30827E14F96FECDA6 /* Pods_RED.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RED.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2000F39A17C5A26D00303155 /* AlbumTorrentDownloadButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlbumTorrentDownloadButton.h; sourceTree = "<group>"; };
 		2000F39B17C5A26D00303155 /* AlbumTorrentDownloadButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlbumTorrentDownloadButton.m; sourceTree = "<group>"; };
 		2000F39D17C5A60700303155 /* UIButton+Tools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Tools.h"; sourceTree = "<group>"; };
@@ -509,10 +470,7 @@
 		4F08ED2A17A6ECC10014C437 /* PickerObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PickerObject.m; sourceTree = "<group>"; };
 		4F0A45ED1799816400A84D12 /* AnnouncementsTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnnouncementsTableViewCell.h; sourceTree = "<group>"; };
 		4F0A45EE1799816400A84D12 /* AnnouncementsTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnnouncementsTableViewCell.m; sourceTree = "<group>"; };
-		4F0B385B181B0AE000845006 /* GTL.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = GTL.xcodeproj; path = "Third Party Libraries/GoogleDrive/GTL.xcodeproj"; sourceTree = "<group>"; };
 		4F0B386B181B0BD600845006 /* GTMOAuth2ViewTouch.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = GTMOAuth2ViewTouch.xib; path = "Third Party Libraries/GoogleDrive/OAuth2/Touch/GTMOAuth2ViewTouch.xib"; sourceTree = SOURCE_ROOT; };
-		4F0B386D181B0C6700845006 /* GTLDrive_Sources.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GTLDrive_Sources.m; path = "Third Party Libraries/GoogleDrive/Services/Drive/Generated/GTLDrive_Sources.m"; sourceTree = "<group>"; };
-		4F0B386E181B0C6700845006 /* GTLDrive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GTLDrive.h; path = "Third Party Libraries/GoogleDrive/Services/Drive/Generated/GTLDrive.h"; sourceTree = "<group>"; };
 		4F0BF9C317567C1200C93FE8 /* AlbumTableHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlbumTableHeaderView.h; sourceTree = "<group>"; };
 		4F0BF9C417567C1200C93FE8 /* AlbumTableHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = AlbumTableHeaderView.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		4F0D31C5178DD2A50046C61D /* MainCellGradientView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainCellGradientView.h; sourceTree = "<group>"; };
@@ -546,31 +504,6 @@
 		4F3A8627179740AE00EC28B5 /* WCDThread.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WCDThread.m; sourceTree = "<group>"; };
 		4F3A86291797478700EC28B5 /* WCDCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WCDCategory.h; sourceTree = "<group>"; };
 		4F3A862A1797478700EC28B5 /* WCDCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WCDCategory.m; sourceTree = "<group>"; };
-		4F46423D1784AFFF00DF352F /* Decoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Decoder.h; sourceTree = "<group>"; };
-		4F46423E1784AFFF00DF352F /* Exception.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Exception.h; sourceTree = "<group>"; };
-		4F46423F1784AFFF00DF352F /* Image.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Image.h; sourceTree = "<group>"; };
-		4F4642401784AFFF00DF352F /* ImageScanner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageScanner.h; sourceTree = "<group>"; };
-		4F4642411784AFFF00DF352F /* Processor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Processor.h; sourceTree = "<group>"; };
-		4F4642421784AFFF00DF352F /* Scanner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Scanner.h; sourceTree = "<group>"; };
-		4F4642431784AFFF00DF352F /* Symbol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Symbol.h; sourceTree = "<group>"; };
-		4F4642441784AFFF00DF352F /* Video.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Video.h; sourceTree = "<group>"; };
-		4F4642451784AFFF00DF352F /* Window.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Window.h; sourceTree = "<group>"; };
-		4F4642461784AFFF00DF352F /* zbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = zbar.h; sourceTree = "<group>"; };
-		4F4642471784AFFF00DF352F /* ZBarCameraSimulator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZBarCameraSimulator.h; sourceTree = "<group>"; };
-		4F4642481784AFFF00DF352F /* ZBarCaptureReader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZBarCaptureReader.h; sourceTree = "<group>"; };
-		4F4642491784AFFF00DF352F /* ZBarHelpController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZBarHelpController.h; sourceTree = "<group>"; };
-		4F46424A1784AFFF00DF352F /* ZBarImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZBarImage.h; sourceTree = "<group>"; };
-		4F46424B1784AFFF00DF352F /* ZBarImageScanner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZBarImageScanner.h; sourceTree = "<group>"; };
-		4F46424C1784AFFF00DF352F /* ZBarReaderController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZBarReaderController.h; sourceTree = "<group>"; };
-		4F46424D1784AFFF00DF352F /* ZBarReaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZBarReaderView.h; sourceTree = "<group>"; };
-		4F46424E1784AFFF00DF352F /* ZBarReaderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZBarReaderViewController.h; sourceTree = "<group>"; };
-		4F46424F1784AFFF00DF352F /* ZBarSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZBarSDK.h; sourceTree = "<group>"; };
-		4F4642501784AFFF00DF352F /* ZBarSymbol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZBarSymbol.h; sourceTree = "<group>"; };
-		4F4642511784AFFF00DF352F /* libzbar.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libzbar.a; sourceTree = "<group>"; };
-		4F4642531784AFFF00DF352F /* zbar-back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zbar-back.png"; sourceTree = "<group>"; };
-		4F4642541784AFFF00DF352F /* zbar-help.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "zbar-help.html"; sourceTree = "<group>"; };
-		4F4642551784AFFF00DF352F /* zbar-helpicons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zbar-helpicons.png"; sourceTree = "<group>"; };
-		4F4642561784AFFF00DF352F /* zbar-samples.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zbar-samples.png"; sourceTree = "<group>"; };
 		4F4B7E8217FB2E1300046C47 /* SwipeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwipeView.h; sourceTree = "<group>"; };
 		4F4B7E8317FB2E1300046C47 /* SwipeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SwipeView.m; sourceTree = "<group>"; };
 		4F4CA50017DF9BCD0024964C /* DiscussionWithReplyController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DiscussionWithReplyController.h; sourceTree = "<group>"; };
@@ -650,7 +583,6 @@
 		4F91EAC0187F00C300BA443F /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		4F91EAC1187F00C300BA443F /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		4F91EAC2187F00C300BA443F /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
-		4F91EAC7187F011700BA443F /* Dropbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Dropbox.framework; path = "Third Party Libraries/Dropbox.framework"; sourceTree = "<group>"; };
 		4F962522174E9170001542E8 /* MenuController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuController.h; sourceTree = "<group>"; };
 		4F962523174E9170001542E8 /* MenuController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuController.m; sourceTree = "<group>"; };
 		4F962526174EA5F4001542E8 /* UIImage+Tools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Tools.h"; sourceTree = "<group>"; };
@@ -674,14 +606,14 @@
 		4FBA163817B41CB100D110FE /* PaginatorFooterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PaginatorFooterView.m; sourceTree = "<group>"; };
 		4FC0C54B17667178005A6167 /* SearchUsersTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchUsersTableViewCell.h; sourceTree = "<group>"; };
 		4FC0C54C17667178005A6167 /* SearchUsersTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchUsersTableViewCell.m; sourceTree = "<group>"; };
-		4FC1005417282D02001DCFD1 /* WhatCDi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WhatCDi.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4FC1005417282D02001DCFD1 /* RED.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RED.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FC1005717282D02001DCFD1 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4FC1005917282D02001DCFD1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4FC1005B17282D02001DCFD1 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		4FC1005F17282D03001DCFD1 /* WhatCDi-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WhatCDi-Info.plist"; sourceTree = "<group>"; };
+		4FC1005F17282D03001DCFD1 /* RED-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RED-Info.plist"; sourceTree = "<group>"; };
 		4FC1006117282D03001DCFD1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4FC1006317282D03001DCFD1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4FC1006517282D03001DCFD1 /* WhatCDi-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WhatCDi-Prefix.pch"; sourceTree = "<group>"; };
+		4FC1006517282D03001DCFD1 /* RED-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RED-Prefix.pch"; sourceTree = "<group>"; };
 		4FC1006617282D03001DCFD1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4FC1006717282D03001DCFD1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		4FC1006F17282D03001DCFD1 /* ProfileTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProfileTableViewController.h; sourceTree = "<group>"; };
@@ -750,7 +682,8 @@
 		4FFAD9DC17A317E000A41814 /* TorrentsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TorrentsTableViewController.m; sourceTree = "<group>"; };
 		4FFFA06717F5F3CF00464421 /* WCDPostContent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WCDPostContent.h; sourceTree = "<group>"; };
 		4FFFA06817F5F3CF00464421 /* WCDPostContent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WCDPostContent.m; sourceTree = "<group>"; };
-		7A4F50C7F0A84772AB99CC73 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = SOURCE_ROOT; };
+		A8C7D3761DEFD026997D088A /* Pods-RED.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RED.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RED/Pods-RED.debug.xcconfig"; sourceTree = "<group>"; };
+		D9056B1FE7FA5CAC64C43FED /* Pods-RED.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RED.release.xcconfig"; path = "Pods/Target Support Files/Pods-RED/Pods-RED.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -758,7 +691,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F0B386A181B0B6300845006 /* libGTLTouchStaticLib.a in Frameworks */,
 				20CF923817680A3C0051AE1A /* MessageUI.framework in Frameworks */,
 				205FE25D17A5629A0038E9CA /* libc++.dylib in Frameworks */,
 				4FF3D0B4177200770019DA76 /* Accelerate.framework in Frameworks */,
@@ -768,7 +700,6 @@
 				4FDC0BE1173ADB160023077E /* CoreVideo.framework in Frameworks */,
 				4FDC0BDF173ADB0F0023077E /* CoreMedia.framework in Frameworks */,
 				4FDC0BDD173ADAFE0023077E /* AVFoundation.framework in Frameworks */,
-				4F91EAC9187F011700BA443F /* Dropbox.framework in Frameworks */,
 				4F034C4317301BD9008C3322 /* ImageIO.framework in Frameworks */,
 				4FF581DC172EFC5000D1DA69 /* CoreText.framework in Frameworks */,
 				4FF581CC172EEE7F00D1DA69 /* libxml2.2.dylib in Frameworks */,
@@ -778,8 +709,7 @@
 				4FC1005817282D02001DCFD1 /* UIKit.framework in Frameworks */,
 				4FC1005A17282D02001DCFD1 /* Foundation.framework in Frameworks */,
 				4FC1005C17282D02001DCFD1 /* CoreGraphics.framework in Frameworks */,
-				22E2E7D7B3F84DBAA3FA3D51 /* libPods.a in Frameworks */,
-				4F4642571784AFFF00DF352F /* libzbar.a in Frameworks */,
+				D4286AF91600EFBED9A40DE2 /* Pods_RED.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1290,27 +1220,6 @@
 			name = Cells;
 			sourceTree = "<group>";
 		};
-		4F0B385C181B0AE000845006 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				4F0B3863181B0AE000845006 /* GTL.framework */,
-				4F0B3865181B0AE000845006 /* libGTLTouchStaticLib.a */,
-				4F0B3867181B0AE000845006 /* GTLUnitTests.octest */,
-				4F0B3869181B0AE000845006 /* DevelopmentTestTool */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		4F0B3870181B0C6B00845006 /* GoogleDrive */ = {
-			isa = PBXGroup;
-			children = (
-				4F0B386D181B0C6700845006 /* GTLDrive_Sources.m */,
-				4F0B386E181B0C6700845006 /* GTLDrive.h */,
-				4F0B385B181B0AE000845006 /* GTL.xcodeproj */,
-			);
-			name = GoogleDrive;
-			sourceTree = "<group>";
-		};
 		4F14E5351774BE5100E1729B /* Inbox View */ = {
 			isa = PBXGroup;
 			children = (
@@ -1406,71 +1315,6 @@
 				4F698C2217959BCB00761005 /* WCDFile.m */,
 			);
 			name = Models;
-			sourceTree = "<group>";
-		};
-		4F4642391784AFFF00DF352F /* ZBarSDK */ = {
-			isa = PBXGroup;
-			children = (
-				4F46423A1784AFFF00DF352F /* Headers */,
-				4F4642511784AFFF00DF352F /* libzbar.a */,
-				4F4642521784AFFF00DF352F /* Resources */,
-			);
-			name = ZBarSDK;
-			path = "Third Party Libraries/ZBarSDK";
-			sourceTree = "<group>";
-		};
-		4F46423A1784AFFF00DF352F /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				4F46423B1784AFFF00DF352F /* ZBarSDK */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
-		4F46423B1784AFFF00DF352F /* ZBarSDK */ = {
-			isa = PBXGroup;
-			children = (
-				4F46423C1784AFFF00DF352F /* zbar */,
-				4F4642461784AFFF00DF352F /* zbar.h */,
-				4F4642471784AFFF00DF352F /* ZBarCameraSimulator.h */,
-				4F4642481784AFFF00DF352F /* ZBarCaptureReader.h */,
-				4F4642491784AFFF00DF352F /* ZBarHelpController.h */,
-				4F46424A1784AFFF00DF352F /* ZBarImage.h */,
-				4F46424B1784AFFF00DF352F /* ZBarImageScanner.h */,
-				4F46424C1784AFFF00DF352F /* ZBarReaderController.h */,
-				4F46424D1784AFFF00DF352F /* ZBarReaderView.h */,
-				4F46424E1784AFFF00DF352F /* ZBarReaderViewController.h */,
-				4F46424F1784AFFF00DF352F /* ZBarSDK.h */,
-				4F4642501784AFFF00DF352F /* ZBarSymbol.h */,
-			);
-			path = ZBarSDK;
-			sourceTree = "<group>";
-		};
-		4F46423C1784AFFF00DF352F /* zbar */ = {
-			isa = PBXGroup;
-			children = (
-				4F46423D1784AFFF00DF352F /* Decoder.h */,
-				4F46423E1784AFFF00DF352F /* Exception.h */,
-				4F46423F1784AFFF00DF352F /* Image.h */,
-				4F4642401784AFFF00DF352F /* ImageScanner.h */,
-				4F4642411784AFFF00DF352F /* Processor.h */,
-				4F4642421784AFFF00DF352F /* Scanner.h */,
-				4F4642431784AFFF00DF352F /* Symbol.h */,
-				4F4642441784AFFF00DF352F /* Video.h */,
-				4F4642451784AFFF00DF352F /* Window.h */,
-			);
-			path = zbar;
-			sourceTree = "<group>";
-		};
-		4F4642521784AFFF00DF352F /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				4F4642531784AFFF00DF352F /* zbar-back.png */,
-				4F4642541784AFFF00DF352F /* zbar-help.html */,
-				4F4642551784AFFF00DF352F /* zbar-helpicons.png */,
-				4F4642561784AFFF00DF352F /* zbar-samples.png */,
-			);
-			path = Resources;
 			sourceTree = "<group>";
 		};
 		4F4B7E8117FB2E1300046C47 /* SwipeView */ = {
@@ -1831,14 +1675,14 @@
 				4FC100A617283040001DCFD1 /* Third Party Libraries */,
 				4FC1005617282D02001DCFD1 /* Frameworks */,
 				4FC1005517282D02001DCFD1 /* Products */,
-				7A4F50C7F0A84772AB99CC73 /* Pods.xcconfig */,
+				6321FF351431D498A48D55C6 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
 		4FC1005517282D02001DCFD1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4FC1005417282D02001DCFD1 /* WhatCDi.app */,
+				4FC1005417282D02001DCFD1 /* RED.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1846,7 +1690,6 @@
 		4FC1005617282D02001DCFD1 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				4F91EAC7187F011700BA443F /* Dropbox.framework */,
 				205FE25C17A5629A0038E9CA /* libc++.dylib */,
 				4FF3D0B3177200770019DA76 /* Accelerate.framework */,
 				20CF923717680A3C0051AE1A /* MessageUI.framework */,
@@ -1866,7 +1709,7 @@
 				4FC1005717282D02001DCFD1 /* UIKit.framework */,
 				4FC1005917282D02001DCFD1 /* Foundation.framework */,
 				4FC1005B17282D02001DCFD1 /* CoreGraphics.framework */,
-				0481D0BD4370491996AF60B2 /* libPods.a */,
+				145691F30827E14F96FECDA6 /* Pods_RED.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -1905,10 +1748,10 @@
 		4FC1005E17282D03001DCFD1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				4FC1005F17282D03001DCFD1 /* WhatCDi-Info.plist */,
+				4FC1005F17282D03001DCFD1 /* RED-Info.plist */,
 				4FC1006017282D03001DCFD1 /* InfoPlist.strings */,
 				4FC1006317282D03001DCFD1 /* main.m */,
-				4FC1006517282D03001DCFD1 /* WhatCDi-Prefix.pch */,
+				4FC1006517282D03001DCFD1 /* RED-Prefix.pch */,
 				4F0B386B181B0BD600845006 /* GTMOAuth2ViewTouch.xib */,
 			);
 			name = "Supporting Files";
@@ -1928,20 +1771,18 @@
 		4FC100A617283040001DCFD1 /* Third Party Libraries */ = {
 			isa = PBXGroup;
 			children = (
-				4F0B3870181B0C6B00845006 /* GoogleDrive */,
-				4F4B7E8117FB2E1300046C47 /* SwipeView */,
-				4F4CA50917DFBBB30024964C /* OpenInChrome */,
-				20E589E417CEF22800E4C5B1 /* Nimbus */,
-				4F79EDD917AAFDB800E55B35 /* SSPullToRefresh */,
-				4FFAD9CF17A2F45A00A41814 /* NMPaginator */,
-				4F4642391784AFFF00DF352F /* ZBarSDK */,
-				4F03A7E0177B8B0D005F25BC /* Objective-C-HMTL-Parser */,
 				4F03A7C9177B613C005F25BC /* BBCodeParser */,
-				4FF0CB871778A1D6003DD514 /* Sequencer */,
-				4FF3D0B5177200AF0019DA76 /* UIImage+ImageEffects */,
-				4FE7AD73175E618800EB91E3 /* SCP */,
-				4F19FAEF17304FA900F47141 /* TFHpple */,
+				20E589E417CEF22800E4C5B1 /* Nimbus */,
+				4FFAD9CF17A2F45A00A41814 /* NMPaginator */,
 				2071B9ED172F477000AD4239 /* NSString+HTML */,
+				4F03A7E0177B8B0D005F25BC /* Objective-C-HMTL-Parser */,
+				4F4CA50917DFBBB30024964C /* OpenInChrome */,
+				4FE7AD73175E618800EB91E3 /* SCP */,
+				4FF0CB871778A1D6003DD514 /* Sequencer */,
+				4F79EDD917AAFDB800E55B35 /* SSPullToRefresh */,
+				4F4B7E8117FB2E1300046C47 /* SwipeView */,
+				4F19FAEF17304FA900F47141 /* TFHpple */,
+				4FF3D0B5177200AF0019DA76 /* UIImage+ImageEffects */,
 			);
 			name = "Third Party Libraries";
 			sourceTree = "<group>";
@@ -2121,26 +1962,36 @@
 			name = "Browse Torrents";
 			sourceTree = "<group>";
 		};
+		6321FF351431D498A48D55C6 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A8C7D3761DEFD026997D088A /* Pods-RED.debug.xcconfig */,
+				D9056B1FE7FA5CAC64C43FED /* Pods-RED.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4FC1005317282D02001DCFD1 /* WhatCDi */ = {
+		4FC1005317282D02001DCFD1 /* RED */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4FC1008517282D03001DCFD1 /* Build configuration list for PBXNativeTarget "WhatCDi" */;
+			buildConfigurationList = 4FC1008517282D03001DCFD1 /* Build configuration list for PBXNativeTarget "RED" */;
 			buildPhases = (
-				AB91705B70AD46C1923117EC /* Check Pods Manifest.lock */,
+				1C5BEB5DA127F24CFB4000B0 /* [CP] Check Pods Manifest.lock */,
 				4FC1005017282D02001DCFD1 /* Sources */,
 				4FC1005117282D02001DCFD1 /* Frameworks */,
 				4FC1005217282D02001DCFD1 /* Resources */,
-				4B2F95EABC9643F89F4BB10E /* Copy Pods Resources */,
+				04828A43C0E6E8CB2A307EF7 /* [CP] Embed Pods Frameworks */,
+				64B88B1E1B629244BB3EBE82 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = WhatCDi;
+			name = RED;
 			productName = What;
-			productReference = 4FC1005417282D02001DCFD1 /* WhatCDi.app */;
+			productReference = 4FC1005417282D02001DCFD1 /* RED.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -2157,7 +2008,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4FC1004F17282D02001DCFD1 /* Build configuration list for PBXProject "WhatCDi" */;
+			buildConfigurationList = 4FC1004F17282D02001DCFD1 /* Build configuration list for PBXProject "RED" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -2167,49 +2018,12 @@
 			mainGroup = 4FC1004B17282D02001DCFD1;
 			productRefGroup = 4FC1005517282D02001DCFD1 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 4F0B385C181B0AE000845006 /* Products */;
-					ProjectRef = 4F0B385B181B0AE000845006 /* GTL.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
-				4FC1005317282D02001DCFD1 /* WhatCDi */,
+				4FC1005317282D02001DCFD1 /* RED */,
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXReferenceProxy section */
-		4F0B3863181B0AE000845006 /* GTL.framework */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.framework;
-			path = GTL.framework;
-			remoteRef = 4F0B3862181B0AE000845006 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		4F0B3865181B0AE000845006 /* libGTLTouchStaticLib.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libGTLTouchStaticLib.a;
-			remoteRef = 4F0B3864181B0AE000845006 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		4F0B3867181B0AE000845006 /* GTLUnitTests.octest */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.cfbundle;
-			path = GTLUnitTests.octest;
-			remoteRef = 4F0B3866181B0AE000845006 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		4F0B3869181B0AE000845006 /* DevelopmentTestTool */ = {
-			isa = PBXReferenceProxy;
-			fileType = "compiled.mach-o.executable";
-			path = DevelopmentTestTool;
-			remoteRef = 4F0B3868181B0AE000845006 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		4FC1005217282D02001DCFD1 /* Resources */ = {
@@ -2221,16 +2035,12 @@
 				4F91EAAC187F00BD00BA443F /* Icon-72@2x.png in Resources */,
 				4F91EAC5187F00C300BA443F /* Default@2x.png in Resources */,
 				4FC1006217282D03001DCFD1 /* InfoPlist.strings in Resources */,
-				4F4642581784AFFF00DF352F /* zbar-back.png in Resources */,
 				4F91EAB8187F00BD00BA443F /* AppIcon60x60@2x.png in Resources */,
-				4F4642591784AFFF00DF352F /* zbar-help.html in Resources */,
 				4F91EAC4187F00C300BA443F /* Default.png in Resources */,
 				4F91EAB1187F00BD00BA443F /* Icon.png in Resources */,
-				4F46425A1784AFFF00DF352F /* zbar-helpicons.png in Resources */,
 				4F91EAB5187F00BD00BA443F /* AppIcon40x40.png in Resources */,
 				4F91EAAB187F00BD00BA443F /* Icon-72.png in Resources */,
 				4F91EAAE187F00BD00BA443F /* Icon-Small-50@2x.png in Resources */,
-				4F46425B1784AFFF00DF352F /* zbar-samples.png in Resources */,
 				20B8D3651790EC9A00FA6EC4 /* Images in Resources */,
 				4F91EAB0187F00BD00BA443F /* Icon-Small@2x.png in Resources */,
 				4F24794D17ABFC6F00C09BED /* Tahoma.ttf in Resources */,
@@ -2250,34 +2060,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		4B2F95EABC9643F89F4BB10E /* Copy Pods Resources */ = {
+		04828A43C0E6E8CB2A307EF7 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-RED/Pods-RED-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework",
+				"${BUILT_PRODUCTS_DIR}/ALAlertBanner/ALAlertBanner.framework",
+				"${BUILT_PRODUCTS_DIR}/MMDrawerController/MMDrawerController.framework",
+				"${BUILT_PRODUCTS_DIR}/MarqueeLabel/MarqueeLabel.framework",
 			);
-			name = "Copy Pods Resources";
+			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AFNetworking.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ALAlertBanner.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MMDrawerController.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MarqueeLabel.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RED/Pods-RED-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		AB91705B70AD46C1923117EC /* Check Pods Manifest.lock */ = {
+		1C5BEB5DA127F24CFB4000B0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-RED-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		64B88B1E1B629244BB3EBE82 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Check Pods Manifest.lock";
+			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RED/Pods-RED-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -2295,7 +2132,6 @@
 				4FC1007817282D03001DCFD1 /* LoginTableViewController.m in Sources */,
 				4FC100AD17283224001DCFD1 /* HTTPRequestSingleton.m in Sources */,
 				4FC100B117283623001DCFD1 /* UIApplication+AppDimensions.m in Sources */,
-				4F0B386F181B0C6700845006 /* GTLDrive_Sources.m in Sources */,
 				203CFBCB1728CDF5008A273B /* JSONRequestSingleton.m in Sources */,
 				20743CC2172A04FC0073A28A /* AnnouncementsTableViewController.m in Sources */,
 				20743CC5172A05470073A28A /* CategoryTableViewController.m in Sources */,
@@ -2497,7 +2333,6 @@
 /* Begin XCBuildConfiguration section */
 		4FC1008317282D03001DCFD1 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7A4F50C7F0A84772AB99CC73 /* Pods.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -2521,7 +2356,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				ONLY_ACTIVE_ARCH = YES;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -2530,7 +2365,6 @@
 		};
 		4FC1008417282D03001DCFD1 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7A4F50C7F0A84772AB99CC73 /* Pods.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -2547,7 +2381,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				PROVISIONING_PROFILE = "";
@@ -2558,7 +2392,7 @@
 		};
 		4FC1008617282D03001DCFD1 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7A4F50C7F0A84772AB99CC73 /* Pods.xcconfig */;
+			baseConfigurationReference = A8C7D3761DEFD026997D088A /* Pods-RED.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_NOTICES = NO;
 				ASSETCATALOG_WARNINGS = NO;
@@ -2570,13 +2404,13 @@
 					"$(SRCROOT)/Third\\ Party\\ Libraries",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "What/WhatCDi-Prefix.pch";
+				GCC_PREFIX_HEADER = "What/RED-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"$(SDKROOT)/usr/include/libxml2",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "What/WhatCDi-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				INFOPLIST_FILE = "What/RED-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/Third Party Libraries/ZBarSDK\"",
@@ -2587,7 +2421,8 @@
 					"-all_load",
 					"$(inherited)",
 				);
-				PRODUCT_NAME = WhatCDi;
+				PRODUCT_BUNDLE_IDENTIFIER = com.redacted.RED;
+				PRODUCT_NAME = RED;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
 				USER_HEADER_SEARCH_PATHS = "\"$(SRCROOT)/Third Party Libraries/GoogleDrive\"/**";
@@ -2597,7 +2432,7 @@
 		};
 		4FC1008717282D03001DCFD1 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7A4F50C7F0A84772AB99CC73 /* Pods.xcconfig */;
+			baseConfigurationReference = D9056B1FE7FA5CAC64C43FED /* Pods-RED.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_NOTICES = NO;
 				ASSETCATALOG_WARNINGS = NO;
@@ -2609,13 +2444,13 @@
 					"$(SRCROOT)/Third\\ Party\\ Libraries",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "What/WhatCDi-Prefix.pch";
+				GCC_PREFIX_HEADER = "What/RED-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"$(SDKROOT)/usr/include/libxml2",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "What/WhatCDi-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				INFOPLIST_FILE = "What/RED-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/Third Party Libraries/ZBarSDK\"",
@@ -2626,7 +2461,8 @@
 					"-all_load",
 					"$(inherited)",
 				);
-				PRODUCT_NAME = WhatCDi;
+				PRODUCT_BUNDLE_IDENTIFIER = com.redacted.RED;
+				PRODUCT_NAME = RED;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
 				USER_HEADER_SEARCH_PATHS = "\"$(SRCROOT)/Third Party Libraries/GoogleDrive\"/**";
@@ -2637,7 +2473,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4FC1004F17282D02001DCFD1 /* Build configuration list for PBXProject "WhatCDi" */ = {
+		4FC1004F17282D02001DCFD1 /* Build configuration list for PBXProject "RED" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4FC1008317282D03001DCFD1 /* Debug */,
@@ -2646,7 +2482,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4FC1008517282D03001DCFD1 /* Build configuration list for PBXNativeTarget "WhatCDi" */ = {
+		4FC1008517282D03001DCFD1 /* Build configuration list for PBXNativeTarget "RED" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4FC1008617282D03001DCFD1 /* Debug */,

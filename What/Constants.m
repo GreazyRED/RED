@@ -37,8 +37,8 @@ NSString * const cThreadCellOddColor = @"f2f1f0";
 
 NSString * const cCyanColor = @"479ccd";
 
-NSString * const cHostName = @"https://what.cd";
-NSString * const cHostNameSSL = @"https://ssl.what.cd";
+NSString * const cHostName = @"https://redacted.ch";
+NSString * const cHostNameSSL = @"https://ssl.redacted.ch";
 
 @implementation NSObject (ALContext)
 @dynamic context;

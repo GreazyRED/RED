@@ -72,8 +72,8 @@
     CategoryTableViewController *forum = [[CategoryTableViewController alloc] init];
     self.forumNav = [[MainNavigationController alloc] initWithRootViewController:forum];
     
-    SearchTableViewController *search = [[SearchTableViewController alloc] init];
-    self.searchNav = [[MainNavigationController alloc] initWithRootViewController:search];
+//    SearchTableViewController *search = [[SearchTableViewController alloc] init];
+//    self.searchNav = [[MainNavigationController alloc] initWithRootViewController:search];
     
     InboxTableViewController *inbox = [[InboxTableViewController alloc] init];
     self.inboxNav = [[MainNavigationController alloc] initWithRootViewController:inbox];

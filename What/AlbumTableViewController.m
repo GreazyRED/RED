@@ -15,7 +15,6 @@
 #import "AppDelegate.h"
 #import "NSTask.h"
 #import "GoogleDrive.h"
-#import "Dropbox.h"
 #import "AlbumTableHeaderView.h"
 #import "Skydrive.h"
 #import "UserSingleton.h"
@@ -493,7 +492,8 @@
 
 -(void)downloadTorrent:(id)sender {
     AppDelegate *appDelegate = (AppDelegate*)[[UIApplication sharedApplication] delegate];
-    if ([[GoogleDrive sharedDrive] isAuthorized]) {
+    //if ([[GoogleDrive sharedDrive] isAuthorized]) {
+    if (false) {
         WCDTorrent *torrent = [(AlbumTorrentDownloadButton *)sender torrent];
         
         NSURLRequest *request = [[HTTPRequestSingleton sharedClient] requestWithMethod:@"GET" path:[NSString stringWithFormat:@"/torrents.php?action=download&id=%i&authkey=%@", torrent.idNum, [UserSingleton sharedInstance].authkey] parameters:nil];        
@@ -534,11 +534,11 @@
 
 -(void)uploadFileToTheCloud:(NSString*)fileName fromPath:(NSString *)filePath {
     AppDelegate *appDelegate = (AppDelegate*)[[UIApplication sharedApplication] delegate];
-    [[GoogleDrive sharedDrive] uploadFile:fileName fromPath:filePath success:^{
-        [appDelegate showAlertBannerWithTitle:@"File Added To Google Drive" subtitle:[NSString stringWithFormat:@"%@ was successfully added to your Google Drive storage.", fileName] style:ALAlertBannerStyleSuccess];
-    } failure:^(NSError *error) {
-        [appDelegate showAlertBannerWithTitle:error.localizedFailureReason subtitle:error.localizedDescription style:ALAlertBannerStyleFailure];
-    }];
+//    [[GoogleDrive sharedDrive] uploadFile:fileName fromPath:filePath success:^{
+//        [appDelegate showAlertBannerWithTitle:@"File Added To Google Drive" subtitle:[NSString stringWithFormat:@"%@ was successfully added to your Google Drive storage.", fileName] style:ALAlertBannerStyleSuccess];
+//    } failure:^(NSError *error) {
+//        [appDelegate showAlertBannerWithTitle:error.localizedFailureReason subtitle:error.localizedDescription style:ALAlertBannerStyleFailure];
+//    }];
 }
 
 /*
